@@ -1,0 +1,6 @@
+
+module mux2x1 (input [1:0] x, input [1:0] y, input select, output [1:0] out);
+
+assign out = (select)?  y: x;
+
+endmodule
