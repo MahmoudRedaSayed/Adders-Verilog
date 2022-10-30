@@ -17,7 +17,7 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	mux4x1
 
-} {} {}} E:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v {1 {vlog -work work -stats=none {E:\GitHub\projects\Adders-Verilog\project\carry_select_adder_4bit.v}
+} {} {}} E:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module mux2x1
 -- Compiling module mux4x1
@@ -66,7 +66,7 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	carrySaveAdder
 
-} {} {}} E:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v {1 {vlog -work work -stats=none {E:\GitHub\projects\Adders-Verilog\project\ripple_adder_with_carry.v}
+} {} {}} E:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module full_adder
 -- Compiling module ripple_adder_with_carry
@@ -103,12 +103,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	ripple_adder
 
-} {} {}} E:/GitHub/projects/Adders-Verilog/project/CLA&CByAAdder&RippleAdder_tb.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/CLA&CByAAdder&RippleAdder_tb.v
+} {} {}} E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module CLAAndCByAAdderAndRippleAdderAdnPlusVersion_tb
+-- Compiling module cla32bit
 
 Top level modules:
-	CLAAndCByAAdderAndRippleAdderAdnPlusVersion_tb
+	cla32bit
 
 } {} {}} E:/GitHub/projects/Adders-Verilog/project/mux2x1.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/mux2x1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -116,12 +116,5 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 
 Top level modules:
 	mux2x1
-
-} {} {}} E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module cla32bit
-
-Top level modules:
-	cla32bit
 
 } {} {}}

@@ -2,6 +2,7 @@
 module CLAAndCByAAdderAndRippleAdderAdnPlusVersion_tb;
 reg [31:0] A, B;
 wire [31:0] CLAResult, CByAResult,rippleResult,PlusVResult, CarrySaveAdderResult, CarrySelectAdderResult;
+//wire [32:0] CarrySaveAdderResult;
 wire CLACarryOut, CByACarryOut,rippleCarryout,PlusVCarryout, CarrySaveAdderCarry, CarrySelectAdderCarry;
 cla32bit claAdder(A, B, CLAResult, CLACarryOut);
 cbya32bit cbyaAdder(A, B, CByAResult, CByACarryOut);
