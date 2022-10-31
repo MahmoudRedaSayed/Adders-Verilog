@@ -4,16 +4,18 @@ module ripple_adder
 #(parameter WIDTH=16)(InputA,
                       InputB,
                       OutSum,
-                      CarryOut
+                      CarryOut,
+                      OverFlow
                       );
 
   input [WIDTH-1:0] InputA,InputB;
   output [WIDTH-1:0] OutSum;
-  output CarryOut;
+  output CarryOut,OverFlow;
   wire [WIDTH:0]     WireCarry;
 
   assign WireCarry[0]=0;
   assign CarryOut=WireCarry[WIDTH];
+  assign OverFlow = (InputA[31] ^ OutSum[31]) & (InputB[31] ^ OutSum[31]);
 
   // Create the Full Adders
   genvar  i;
