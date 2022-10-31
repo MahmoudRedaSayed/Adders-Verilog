@@ -10,497 +10,497 @@ z2
 cModel Technology
 dE:/college/CMP Third Year/First Term/Computer Architecture/Labs/Lab 1/Requirement/requirement 1
 vcarrySaveAdder
-Z0 !s110 1667172411
+!s110 1667224492
 !i10b 1
-!s100 7BY3B_SbQLZTH<0ZWfgll3
-Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-IfjCJL0amDB65_?g>bnBnf2
-Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 dE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project
-Z4 w1667171242
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_save_adder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_save_adder.v
-!i122 298
+!s100 Jz3EQ56?J`Te<Obd4eSHd3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@mnZn=_lQ3CB5^eIZGcCT2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/GitHub/projects/Adders-Verilog/project
+w1667222771
+8E:/GitHub/projects/Adders-Verilog/project/carry_save_adder.v
+FE:/GitHub/projects/Adders-Verilog/project/carry_save_adder.v
+!i122 362
 L0 3 27
-Z5 OV;L;2020.1;71
+Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1667172411.000000
-!s107 FullAdder.v|full_adder.v|ripple_adder.v|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_save_adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_save_adder.v|
+Z4 !s108 1667224492.000000
+!s107 FullAdder.v|full_adder.v|ripple_adder.v|E:/GitHub/projects/Adders-Verilog/project/carry_save_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/carry_save_adder.v|
 !i113 1
-Z7 o-work work
-Z8 tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
 ncarry@save@adder
 vcarrySelectAdder
-R0
+Z7 !s110 1667224493
 !i10b 1
-!s100 NKaM;Q63KhMDN:c5n2:=e0
+!s100 1Z^fl4Nz?_hjd5kOTQQO53
+R0
+IZdbENo6_NinRRQ=Doc4S13
 R1
-I@i=T<;MXUfk6KIOY?fI:d2
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder.v
-!i122 299
+w1667222746
+8E:/GitHub/projects/Adders-Verilog/project/carry_select_adder.v
+FE:/GitHub/projects/Adders-Verilog/project/carry_select_adder.v
+!i122 363
 L0 2 17
-R5
+R3
 r1
 !s85 0
 31
-R6
-!s107 full_adder.v|ripple_adder_with_carry.v|mux4x1.v|mux2x1.v|carry_select_adder_4bit.v|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder.v|
+R4
+!s107 full_adder.v|ripple_adder_with_carry.v|mux4x1.v|mux2x1.v|carry_select_adder_4bit.v|E:/GitHub/projects/Adders-Verilog/project/carry_select_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/carry_select_adder.v|
 !i113 1
-R7
-R8
+R5
+R6
 ncarry@select@adder
 vcarrySelectAdder4bit
-R0
+R7
 !i10b 1
 !s100 ;<DUW8WOD<N7fFbFQkc4R2
+R0
+IWj4oYSe7azPJOc:eFe[ID0
 R1
-Iaz^k7YH4J4RFGdR@2aURK0
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder_4bit.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder_4bit.v
-!i122 300
+w1667084213
+8E:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v
+FE:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v
+!i122 364
 L0 4 16
-R5
+R3
 r1
 !s85 0
 31
-R6
-!s107 full_adder.v|ripple_adder_with_carry.v|mux4x1.v|mux2x1.v|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder_4bit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/carry_select_adder_4bit.v|
+Z8 !s108 1667224493.000000
+!s107 full_adder.v|ripple_adder_with_carry.v|mux4x1.v|mux2x1.v|E:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/carry_select_adder_4bit.v|
 !i113 1
-R7
-R8
+R5
+R6
 ncarry@select@adder4bit
 vcbya32bit
-Z9 !s110 1667172412
+Z9 !s110 1667224494
 !i10b 1
-!s100 [GPGF2@ME`AaYWGz66Ima0
+!s100 A?@RK>Y9MebAR@J:Xe?kQ2
+R0
+IoNM?KEU=A]ZEHJ=>Zm^9D3
 R1
-IlYzD^U3efP821d911BFXN1
 R2
+Z10 w1667217406
+8E:/GitHub/projects/Adders-Verilog/project/CByA32Adder.v
+FE:/GitHub/projects/Adders-Verilog/project/CByA32Adder.v
+!i122 366
+L0 2 11
 R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA32Adder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA32Adder.v
-!i122 302
-L0 2 10
-R5
 r1
 !s85 0
 31
-R6
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA32Adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA32Adder.v|
+Z11 !s108 1667224494.000000
+!s107 E:/GitHub/projects/Adders-Verilog/project/CByA32Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CByA32Adder.v|
 !i113 1
-R7
-R8
+R5
+R6
 vcbya8bit
-R0
+R9
 !i10b 1
 !s100 84Ugi:[@N<O0E=V:@VYBT1
+R0
+ISETGnQHLCaZJfj89eKLCP3
 R1
-IW75gelMP<SM;6^=Ka561F3
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA8Block.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA8Block.v
-!i122 301
+w1666976914
+8E:/GitHub/projects/Adders-Verilog/project/CByA8Block.v
+FE:/GitHub/projects/Adders-Verilog/project/CByA8Block.v
+!i122 365
 L0 2 15
-R5
+R3
 r1
 !s85 0
 31
-R6
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA8Block.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CByA8Block.v|
-!i113 1
-R7
 R8
+!s107 E:/GitHub/projects/Adders-Verilog/project/CByA8Block.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CByA8Block.v|
+!i113 1
+R5
+R6
 vCIA32CLA
 R9
 !i10b 1
 !s100 0ZMXUJf2CE`XC2RZ[Y^d00
+R0
+I5nN4DghUV3]AEEbi?>ifK0
 R1
-I4VYY2fQ1^`Q;N38gPV=RE1
 R2
-R3
-w1667163004
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CIA_CLA32.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CIA_CLA32.v
-!i122 303
+R10
+8E:/GitHub/projects/Adders-Verilog/project/CIA_CLA32.v
+FE:/GitHub/projects/Adders-Verilog/project/CIA_CLA32.v
+!i122 367
 L0 3 24
-R5
+R3
 r1
 !s85 0
 31
-Z10 !s108 1667172412.000000
-!s107 halfAdder.v|CLA4block.v|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CIA_CLA32.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CIA_CLA32.v|
+R11
+!s107 halfAdder.v|CLA4block.v|E:/GitHub/projects/Adders-Verilog/project/CIA_CLA32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CIA_CLA32.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@c@i@a32@c@l@a
 vcla32bit
-R9
+Z12 !s110 1667224496
 !i10b 1
-!s100 3`5@@I`B[U:g_eTB9=d_51
+!s100 lJYf5?lMNW1UQ;`bSLDia1
+R0
+IOe6mK7oOJehP0:bzLoZ0C1
 R1
-IRMKl7i^CPGJGdBIL5Uo^82
 R2
+R10
+8E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v
+FE:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v
+!i122 371
+L0 1 11
 R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA32Adder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA32Adder.v
-!i122 307
-L0 1 10
-R5
 r1
 !s85 0
 31
-R10
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA32Adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA32Adder.v|
+Z13 !s108 1667224496.000000
+!s107 E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v|
 !i113 1
-R7
-R8
+R5
+R6
 vcla4bit
-R9
+R12
 !i10b 1
 !s100 ojS^Vm[UmMgJk4CiGY^2n1
+R0
+I6617Z>ZB>VQR1JK@X<O273
 R1
-Ilf[=`>e`O8MQ]:`KV[D[]3
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA4Block.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA4Block.v
-!i122 306
+w1666978904
+8E:/GitHub/projects/Adders-Verilog/project/CLA4Block.v
+FE:/GitHub/projects/Adders-Verilog/project/CLA4Block.v
+!i122 370
 L0 1 16
-R5
+R3
 r1
 !s85 0
 31
-R10
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA4Block.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA4Block.v|
+Z14 !s108 1667224495.000000
+!s107 E:/GitHub/projects/Adders-Verilog/project/CLA4Block.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CLA4Block.v|
 !i113 1
-R7
-R8
+R5
+R6
 vCLAAndCByAAdder_tb
-R9
+Z15 !s110 1667224495
 !i10b 1
 !s100 hYz_a0`KGI7R4JH16_o3D3
+R0
+I0o?HQW4f^mMEWY_Uc:8J73
 R1
-Icf_7:O8MR9W18E_FndSUk3
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder_tb.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder_tb.v
-!i122 305
+w1666980548
+8E:/GitHub/projects/Adders-Verilog/project/CLA&CByAAdder_tb.v
+FE:/GitHub/projects/Adders-Verilog/project/CLA&CByAAdder_tb.v
+!i122 369
 L0 1 76
-R5
+R3
 r1
 !s85 0
 31
-R10
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder_tb.v|
+R14
+!s107 E:/GitHub/projects/Adders-Verilog/project/CLA&CByAAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CLA&CByAAdder_tb.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@c@l@a@and@c@by@a@adder_tb
 vCLAAndCByAAdderAndRippleAdderAdnPlusVersion_tb
-R9
+R15
 !i10b 1
-!s100 8AXI<P7]5ezKX3oO4IX;;0
+!s100 2]BVO;g9f]@W:L00eTMn[3
+R0
+I?obG0c6f_[<:Cne??SinM2
 R1
-IPJXDEH6SEXZheCldCSfY32
 R2
-R3
-w1667172334
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder&RippleAdder_tb.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder&RippleAdder_tb.v
-!i122 304
+w1667224448
+8E:\GitHub\projects\Adders-Verilog\project\CLA&CByAAdder&RippleAdder_tb.v
+FE:\GitHub\projects\Adders-Verilog\project\CLA&CByAAdder&RippleAdder_tb.v
+!i122 368
 L0 2 87
-R5
+R3
 r1
 !s85 0
 31
-R10
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder&RippleAdder_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CLA&CByAAdder&RippleAdder_tb.v|
+R14
+!s107 E:\GitHub\projects\Adders-Verilog\project\CLA&CByAAdder&RippleAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\GitHub\projects\Adders-Verilog\project\CLA&CByAAdder&RippleAdder_tb.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@c@l@a@and@c@by@a@adder@and@ripple@adder@adn@plus@version_tb
 vCSkipA32
-Z11 !s110 1667172413
+R12
 !i10b 1
 !s100 5d:haF@cS2Ia`9YPlzUa=1
+R0
+Ih8ol0E]nGGGNTmL7`ab>R2
 R1
-IHn4436ZRTPgfcGb^ThoY>0
 R2
-R3
-w1667171013
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CSA_CLA32.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CSA_CLA32.v
-!i122 308
+R10
+8E:/GitHub/projects/Adders-Verilog/project/CSA_CLA32.v
+FE:/GitHub/projects/Adders-Verilog/project/CSA_CLA32.v
+!i122 372
 L0 1 13
-R5
+R3
 r1
 !s85 0
 31
-R10
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CSA_CLA32.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/CSA_CLA32.v|
+R13
+!s107 E:/GitHub/projects/Adders-Verilog/project/CSA_CLA32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/CSA_CLA32.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@c@skip@a32
 vfull_adder
-Z12 !s110 1667172415
+Z16 !s110 1667224500
 !i10b 1
 !s100 Nf`>a7ik=njTlYH=VYkc:1
-R1
+R0
 I@SMXX7dJVEAlSji5Cd1od1
+R1
 R2
-R3
-R4
+Z17 w1667072629
 8full_adder.v
 Ffull_adder.v
-!i122 317
+!i122 381
 L0 1 12
-R5
+R3
 r1
 !s85 0
 31
-Z13 !s108 1667172415.000000
-Z14 !s107 full_adder.v|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder_with_carry.v|
-Z15 !s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder_with_carry.v|
+Z18 !s108 1667224500.000000
+Z19 !s107 full_adder.v|E:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v|
 !i113 1
-R7
-R8
+R5
+R6
 vFullAdder
-R11
+!s110 1667224497
 !i10b 1
 !s100 YRQ;Hd=?4Zd[^o;2OZ[L23
+R0
+I8VZJW9eK_IGV6Xl`M0dGO1
 R1
-IBgGDIbfLGhYhimHQ3k]7g2
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/FullAdder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/FullAdder.v
-!i122 310
+w1666973934
+8E:/GitHub/projects/Adders-Verilog/project/FullAdder.v
+FE:/GitHub/projects/Adders-Verilog/project/FullAdder.v
+!i122 374
 L0 2 6
-R5
+R3
 r1
 !s85 0
 31
-Z16 !s108 1667172413.000000
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/FullAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/FullAdder.v|
+Z21 !s108 1667224497.000000
+!s107 E:/GitHub/projects/Adders-Verilog/project/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/FullAdder.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@full@adder
 vhalfAdder
-R11
+Z22 !s110 1667224498
 !i10b 1
 !s100 []IW=LUU24U9bdVXQgOXM1
+R0
+ICNn]liK488MBIzO1kSHCZ2
 R1
-IRNoeoTC6i_WTBTG5Ia7UW0
 R2
-R3
-w1667052295
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/halfAdder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/halfAdder.v
-!i122 311
+R10
+8E:/GitHub/projects/Adders-Verilog/project/halfAdder.v
+FE:/GitHub/projects/Adders-Verilog/project/halfAdder.v
+!i122 375
 L0 1 6
-R5
+R3
 r1
 !s85 0
 31
-R16
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/halfAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/halfAdder.v|
+R21
+!s107 E:/GitHub/projects/Adders-Verilog/project/halfAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/halfAdder.v|
 !i113 1
-R7
-R8
+R5
+R6
 nhalf@adder
 vincrementCircuit
-R11
+R22
 !i10b 1
 !s100 `2XWNIU]dd2COS7ohL;zk2
+R0
+Ic]=ScCiafI6JD2zGRj76C0
 R1
-I2hO3;BAXB^D7b7DZVA<1J2
 R2
+R10
+8E:/GitHub/projects/Adders-Verilog/project/incrementCircuit.v
+FE:/GitHub/projects/Adders-Verilog/project/incrementCircuit.v
+!i122 376
+Z23 L0 1 15
 R3
-w1667161350
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/incrementCircuit.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/incrementCircuit.v
-!i122 312
-Z17 L0 1 15
-R5
 r1
 !s85 0
 31
-R16
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/incrementCircuit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/incrementCircuit.v|
+Z24 !s108 1667224498.000000
+!s107 E:/GitHub/projects/Adders-Verilog/project/incrementCircuit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/incrementCircuit.v|
 !i113 1
-R7
-R8
+R5
+R6
 nincrement@circuit
 vmux2x1
-Z18 !s110 1667172414
+R22
 !i10b 1
 !s100 EKaR8H8_CGd;NEQg1dkN>0
+R0
+I06nm]iWaV7O7g^YM8b34c1
 R1
-IFohmdMD<DK2Ib]FoR5ann1
 R2
+w1667082642
+8E:/GitHub/projects/Adders-Verilog/project/mux2x1.v
+FE:/GitHub/projects/Adders-Verilog/project/mux2x1.v
+!i122 377
+Z25 L0 2 5
 R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux2x1.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux2x1.v
-!i122 313
-Z19 L0 2 5
-R5
 r1
 !s85 0
 31
-R16
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux2x1.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux2x1.v|
+R24
+!s107 E:/GitHub/projects/Adders-Verilog/project/mux2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/mux2x1.v|
 !i113 1
-R7
-R8
+R5
+R6
 vmux4x1
-R18
+Z26 !s110 1667224499
 !i10b 1
 !s100 cjL[JB?a>o:H:?mjZVzRC0
+R0
+IWI?<LV>nP2AldMPzoImRY2
 R1
-IfO4o9YD5QQC2:NdkKH2Ud1
 R2
+w1667080637
+8E:/GitHub/projects/Adders-Verilog/project/mux4x1.v
+FE:/GitHub/projects/Adders-Verilog/project/mux4x1.v
+!i122 378
+R25
 R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux4x1.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux4x1.v
-!i122 314
-R19
-R5
 r1
 !s85 0
 31
-Z20 !s108 1667172414.000000
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux4x1.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/mux4x1.v|
+R24
+!s107 E:/GitHub/projects/Adders-Verilog/project/mux4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/mux4x1.v|
 !i113 1
-R7
-R8
+R5
+R6
 vPlusVersion
-R18
+R26
 !i10b 1
 !s100 2>iMZ?]PlbCUcNN2mPbee0
+R0
+I=_671Ma7X8nFkhaEk5VW>3
 R1
-I4W8h^@P3^^5Ce=:gK@_>E3
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/PlusVersion.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/PlusVersion.v
-!i122 315
+R17
+8E:/GitHub/projects/Adders-Verilog/project/PlusVersion.v
+FE:/GitHub/projects/Adders-Verilog/project/PlusVersion.v
+!i122 379
 L0 2 13
-R5
+R3
 r1
 !s85 0
 31
-R20
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/PlusVersion.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/PlusVersion.v|
+Z27 !s108 1667224499.000000
+!s107 E:/GitHub/projects/Adders-Verilog/project/PlusVersion.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/PlusVersion.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@plus@version
 vripple_adder
-R18
+R16
 !i10b 1
 !s100 >APi756k>Ra<Uga_PAS<X1
+R0
+I:?N4D6^4G3BLMekS]78MR3
 R1
-I4J2O?iAlk;5j;FmTR=Zd90
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder.v
-!i122 316
+R17
+8E:/GitHub/projects/Adders-Verilog/project/ripple_adder.v
+FE:/GitHub/projects/Adders-Verilog/project/ripple_adder.v
+!i122 380
 L0 3 31
-R5
+R3
 r1
 !s85 0
 31
-R20
-!s107 full_adder.v|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder.v|
+R27
+!s107 full_adder.v|E:/GitHub/projects/Adders-Verilog/project/ripple_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/ripple_adder.v|
 !i113 1
-R7
-R8
+R5
+R6
 vripple_adder_with_carry
-R12
+R16
 !i10b 1
 !s100 oI_AkOFKQUa[fB4>_UdQJ3
+R0
+IF5zEYfMMgokiDPQ21H0J<1
 R1
-IlIaizPRblG<fX9kI7Bj[61
 R2
-R3
-R4
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder_with_carry.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/ripple_adder_with_carry.v
-!i122 317
+w1667084118
+8E:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v
+FE:/GitHub/projects/Adders-Verilog/project/ripple_adder_with_carry.v
+!i122 381
 L0 3 33
-R5
+R3
 r1
 !s85 0
 31
-R13
-R14
-R15
+R18
+R19
+R20
 !i113 1
-R7
-R8
+R5
+R6
 vSkipLogic
-R12
+R16
 !i10b 1
 !s100 ;^VFYPYL@LQ1Z;0mhaAL]1
+R0
+I^o5IbO^JSOobo2[IbXBQJ2
 R1
-IZGF9:X];=Z^R5S=lJQC`22
 R2
+R10
+8E:/GitHub/projects/Adders-Verilog/project/skipLogic.v
+FE:/GitHub/projects/Adders-Verilog/project/skipLogic.v
+!i122 382
+R23
 R3
-w1667170561
-8E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/skipLogic.v
-FE:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/skipLogic.v
-!i122 318
-R17
-R5
 r1
 !s85 0
 31
-R13
-!s107 E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/skipLogic.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/CMP third year/VLSI/projects/fullProject1/Adders-Verilog/project/skipLogic.v|
+R18
+!s107 E:/GitHub/projects/Adders-Verilog/project/skipLogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/GitHub/projects/Adders-Verilog/project/skipLogic.v|
 !i113 1
-R7
-R8
+R5
+R6
 n@skip@logic

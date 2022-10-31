@@ -24,6 +24,6 @@ assign sum[N-1:1] = s2[N-2:0];
 
 assign carry = s2[N-1];
 
-assign overflow = carry ^ sum[N-1];
+assign overflow = (x[N-1] ^ sum[N-1]) & (y[N-1] ^ sum[N-1]);
 
 endmodule

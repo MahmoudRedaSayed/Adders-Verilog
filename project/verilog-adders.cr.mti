@@ -49,13 +49,6 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	FullAdder
 
-} {} {}} E:/GitHub/projects/Adders-Verilog/project/CByA32Adder.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/CByA32Adder.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module cbya32bit
-
-Top level modules:
-	cbya32bit
-
 } {} {}} E:/GitHub/projects/Adders-Verilog/project/carry_save_adder.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/carry_save_adder.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module full_adder
@@ -102,13 +95,6 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 
 Top level modules:
 	ripple_adder
-
-} {} {}} E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/CLA32Adder.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module cla32bit
-
-Top level modules:
-	cla32bit
 
 } {} {}} E:/GitHub/projects/Adders-Verilog/project/mux2x1.v {1 {vlog -work work -stats=none E:/GitHub/projects/Adders-Verilog/project/mux2x1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
