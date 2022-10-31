@@ -1,12 +1,11 @@
 `include "CLA4block.v"
 `include "halfAdder.v"
-module CIA32CLA (input [31:0]  a, input [31:0]  b, output [31:0] r,output coutres);
+module CIA32CLA (input [31:0]  a, input [31:0]  b, output [31:0] r,output coutres,output overflow);
 
-wire cout1,cout2,cout3,cout4,cout5,cout6,cout7,cout8;
 wire [7:0]cout;
 wire [31:0]res;
 wire [8:0]carries;
-
+assign overflow = (a[31] ^ r[31]) & (b[31] ^ r[31]);
 genvar i;
 generate
     for(i = 0;i<8;i = i+1)

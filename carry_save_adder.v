@@ -16,8 +16,8 @@ endgenerate
 
 assign c2[N-1] = 0;
 assign c2[N-2:0] = s1[N-1:1];
-
-ripple_adder #(N) RA(c2, c1, s2, carry_of_three);
+wire rippleOverflow;
+ripple_adder #(N) RA(c2, c1, s2, carry_of_three,rippleOverflow);
 
 assign sum[0] = s1[0];
 assign sum[N-1:1] = s2[N-2:0];
