@@ -13,6 +13,6 @@ endgenerate
 
 assign carryout = c[(N/4)];
 
-assign overflow = carryout ^ sum[N-1];
+assign overflow = (x[N-1] ^ sum[N-1]) & (y[N-1] ^ sum[N-1]);
 
 endmodule
