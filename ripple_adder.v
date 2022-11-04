@@ -1,26 +1,26 @@
 `include "full_adder.v"
  
 module ripple_adder 
-#(parameter WIDTH=16)(InputA,
+#(parameter N=16)(InputA,
                       InputB,
                       OutSum,
                       CarryOut,
                       OverFlow
                       );
 
-  input [WIDTH-1:0] InputA,InputB;
-  output [WIDTH-1:0] OutSum;
+  input [N-1:0] InputA,InputB;
+  output [N-1:0] OutSum;
   output CarryOut,OverFlow;
-  wire [WIDTH:0]     WireCarry;
+  wire [N:0]     WireCarry;
 
   assign WireCarry[0]=0;
-  assign CarryOut=WireCarry[WIDTH];
-  assign OverFlow = (InputA[31] ^ OutSum[31]) & (InputB[31] ^ OutSum[31]);
+  assign CarryOut=WireCarry[N];
+  assign OverFlow = (InputA[N-1] ^ OutSum[N-1]) & (InputB[N-1] ^ OutSum[N-1]);
 
   // Create the Full Adders
   genvar  i;
   generate
-    for (i=0; i<WIDTH; i=i+1) 
+    for (i=0; i<N; i=i+1) 
       begin
         full_adder full_adder_inst
             ( 
