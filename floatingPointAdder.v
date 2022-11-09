@@ -1,6 +1,6 @@
 module floatPointAdder(
     input [31:0] A,B, 
-    output exception,
+    output overflow,
     output [31:0] result 
 );
 
@@ -29,7 +29,7 @@ assign {max,min} = (A[30:0] < B[30:0]) ? {B,A} : {A,B};
 assign exp_a = max[30:23];
 assign exp_b = min[30:23];
 
-assign exception = (&max[30:23]) | (&min[30:23]);
+assign overflow = (&max[30:23]) | (&min[30:23]);
 
 assign output_sign = max[31] ;
 
@@ -67,6 +67,6 @@ assign sub_diff[22:0] = subtraction_diff[22:0];
 
 
 
-assign result = exception ? 32'b0 : ((!operation_sub_add) ? {output_sign,sub_diff} : {output_sign,add_sum});
+assign result = overflow ? 32'b0 : ((!operation_sub_add) ? {output_sign,sub_diff} : {output_sign,add_sum});
 
 endmodule
